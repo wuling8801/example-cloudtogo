@@ -18,7 +18,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello():
-    return "20200205疫情快快好起来吧"
+    return "20200205-commit"
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0')
