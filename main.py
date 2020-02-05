@@ -18,7 +18,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello():
-    return "20200115github-commit-commit-commit-commit-liiiii"
+    return "20200205疫情快好起来吧"
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0')
