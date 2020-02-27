@@ -18,7 +18,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello():
-    return "test-production-again-again"
+    return "云端编码自动触发构建，公网github"
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0')
