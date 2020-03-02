@@ -17,7 +17,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello():
-    return "testtesttesttest133333333333"
+    return "实例数超过5触发自动错误提示"
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0')
