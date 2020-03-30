@@ -1,4 +1,4 @@
-自动触发-202003i0#!flask/bin/python
+#!flask/bin/python
 # -- coding: utf-8 --
 
 __author__ = 'cloudtogo'
