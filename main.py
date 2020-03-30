@@ -1,4 +1,3 @@
-明天有几天  21:18:04
 #!/bin/python
 # -- coding: utf-8 --
 
